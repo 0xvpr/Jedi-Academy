@@ -1,0 +1,5 @@
+health: 			; jagamex86.dll+0x67845
+	2B F2           ; sub esi, edx
+
+force: 				; jagamex86.dll+0xB197B
+	29 88 50120000  ; sub [eax+0x1250], ecx
